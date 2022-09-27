@@ -1,0 +1,9 @@
+.item-info{
+    display: flex;
+    gap: 10px;
+}
+.close-btn{
+    padding: 5px 15px;
+    background: orangered;
+    cursor: pointer;
+}
